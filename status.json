@@ -1,0 +1,11 @@
+{
+  "healthy": true,
+  "last_success_ts": "2026-11-07T19:50:32.898Z",
+  "last_attempt_ts": "2026-11-07T19:50:32.260Z",
+  "last_arrival_count": 3612,
+  "seconds_since_success": 6e-06,
+  "stale_after_seconds": 600,
+  "last_error": null,
+  "written_ts": "2026-11-07T19:50:32.898Z",
+  "source": "oracle"
+}
